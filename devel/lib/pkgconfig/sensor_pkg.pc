@@ -1,0 +1,8 @@
+prefix=/home/bcsh/sensor_ws/devel
+
+Name: sensor_pkg
+Description: Description of sensor_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs nav_msgs

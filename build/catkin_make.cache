@@ -1,0 +1,2 @@
+sensor_pkg
+-DCATKIN_DEVEL_PREFIX=/home/bcsh/sensor_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bcsh/sensor_ws/install -G Unix Makefiles

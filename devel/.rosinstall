@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bcsh/sensor_ws/devel/setup.sh
